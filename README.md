@@ -16,3 +16,5 @@ Open [http://localhost:5000]
 ### `npm start` for running the client
 
 ### you can also run the server and the react using `npm run dev` the concurrently pacakge wil run the scripts for both server and client at the same time
+
+### To check test question #3 please click on `component state` button link
